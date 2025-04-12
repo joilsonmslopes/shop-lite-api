@@ -1,0 +1,7 @@
+sqlmodel
+sqlalchemy
+passlib[bcrypt]
+typing-extensions
+python-dotenv
+fastapi
+uvicorn[standard]
